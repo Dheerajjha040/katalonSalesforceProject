@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DAFZA Sales</name>
+   <tag></tag>
+   <elementGuidId>b3b26c2a-2b12-44a1-9626-6bd043ea18e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#07pKI0000004FOiYAM > div.slds-size_small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='07pKI0000004FOiYAM']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;DAFZA Sales&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>090fbd1d-0f65-4d31-ad1d-16dd220792c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-size_small</value>
+      <webElementGuid>06224e79-df6e-48e0-85b3-495d9c45497e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DAFZA Sales</value>
+      <webElementGuid>27013c95-f89d-429c-981b-95fc1ebf8ebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;07pKI0000004FOiYAM&quot;)/div[@class=&quot;slds-size_small&quot;]</value>
+      <webElementGuid>5ae85305-5507-4978-9d8b-66246fc6dbfe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='07pKI0000004FOiYAM']/div</value>
+      <webElementGuid>10f35d8c-0082-468e-b526-26702b3a0bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAFZA'])[1]/following::div[1]</value>
+      <webElementGuid>5a436586-5946-4e49-92b8-e4bab8567629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps'])[1]/following::div[3]</value>
+      <webElementGuid>9401dc31-fa85-431d-be88-049b47f68adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAFZA'])[3]/preceding::div[1]</value>
+      <webElementGuid>4e75b039-72d5-49fd-ab23-d45f376641c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//one-app-launcher-menu-item[2]/a/div</value>
+      <webElementGuid>b10d5dc6-8eac-475b-83c4-9ec1cb4d2775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'DAFZA Sales' or . = 'DAFZA Sales')]</value>
+      <webElementGuid>07eee155-0439-4a46-9e6f-26ae3df51dd9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

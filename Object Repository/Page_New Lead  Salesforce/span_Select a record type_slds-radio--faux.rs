@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select a record type_slds-radio--faux</name>
+   <tag></tag>
+   <elementGuidId>4541f31c-24eb-40b2-9b67-338e3ef68b80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.slds-radio--faux</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content_1041:0']/div/div/div/div/div/div/fieldset/div/div/label/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=group[name=&quot;Select a record type&quot;i] >> span >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a38107e0-8ae0-4a05-9c51-949280d6604d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-radio--faux</value>
+      <webElementGuid>318d0035-6c7f-44f0-a21a-33ee21801a4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>1163:0</value>
+      <webElementGuid>2f00d9c9-36ca-42b8-b617-bf436abe6c6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content_1041:0&quot;)/div[@class=&quot;windowViewMode-normal oneRecordActionWrapper isModal active lafPageHost&quot;]/div[@class=&quot;isModal inlinePanel oneRecordActionWrapper&quot;]/div[@class=&quot;actionBody&quot;]/div[@class=&quot;forceChangeRecordType&quot;]/div[@class=&quot;modal__content changeRecordTypeLeftRightContent&quot;]/div[@class=&quot;changeRecordTypeRow&quot;]/fieldset[@class=&quot;slds-form-element slds-no-space&quot;]/div[@class=&quot;changeRecordTypeRightColumn slds-form-element__control&quot;]/div[1]/label[@class=&quot;slds-radio&quot;]/div[@class=&quot;changeRecordTypeOptionLeftColumn&quot;]/span[@class=&quot;slds-radio--faux&quot;]</value>
+      <webElementGuid>98197fb1-8596-42b8-8ad8-d80b21b1d059</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content_1041:0']/div/div/div/div/div/div/fieldset/div/div/label/div/span</value>
+      <webElementGuid>0b490d50-363f-4ed2-9c47-e4d551b88871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div/span</value>
+      <webElementGuid>719bdbe8-5424-4a9c-8c85-49808d6b2ee5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
