@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Create Lead</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>16883bb0-6f9a-4621-a623-7af3b1ea3c5b</testCaseGuid>
-</TestCaseEntity>
