@@ -6,12 +6,19 @@
    <elementGuidId>b3b26c2a-2b12-44a1-9626-6bd043ea18e9</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'DAFZA Sales' or . = 'DAFZA Sales')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#07pKI0000004FOiYAM > div.slds-size_small</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='07pKI0000004FOiYAM']/div</value>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'DAFZA Sales' or . = 'DAFZA Sales')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +36,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>090fbd1d-0f65-4d31-ad1d-16dd220792c5</webElementGuid>
+      <webElementGuid>f450ca4b-9fbc-4d12-8844-697a657d773b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +44,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-size_small</value>
-      <webElementGuid>06224e79-df6e-48e0-85b3-495d9c45497e</webElementGuid>
+      <webElementGuid>dbe6522e-1c8e-48ce-9671-d4127cacee55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +52,7 @@
       <name>text</name>
       <type>Main</type>
       <value>DAFZA Sales</value>
-      <webElementGuid>27013c95-f89d-429c-981b-95fc1ebf8ebb</webElementGuid>
+      <webElementGuid>2e6891ff-d8a5-49d4-9ef0-03702d69d86b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +60,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;07pKI0000004FOiYAM&quot;)/div[@class=&quot;slds-size_small&quot;]</value>
-      <webElementGuid>5ae85305-5507-4978-9d8b-66246fc6dbfe</webElementGuid>
+      <webElementGuid>04a0d2c7-ef9c-4423-bebb-e811b3383552</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +68,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='07pKI0000004FOiYAM']/div</value>
-      <webElementGuid>10f35d8c-0082-468e-b526-26702b3a0bfe</webElementGuid>
+      <webElementGuid>838cd063-28df-438a-b429-9805add7aa9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DAFZA'])[1]/following::div[1]</value>
-      <webElementGuid>5a436586-5946-4e49-92b8-e4bab8567629</webElementGuid>
+      <webElementGuid>947806ce-9c20-49ce-a4bc-9bd9b32379b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps'])[1]/following::div[3]</value>
-      <webElementGuid>9401dc31-fa85-431d-be88-049b47f68adb</webElementGuid>
+      <webElementGuid>88113485-3d0e-4642-8be7-66e9867f7c6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DAFZA'])[3]/preceding::div[1]</value>
-      <webElementGuid>4e75b039-72d5-49fd-ab23-d45f376641c8</webElementGuid>
+      <webElementGuid>170466f0-50a7-461e-b35c-f26274dde48e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +100,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//one-app-launcher-menu-item[2]/a/div</value>
-      <webElementGuid>b10d5dc6-8eac-475b-83c4-9ec1cb4d2775</webElementGuid>
+      <webElementGuid>237379f3-44ce-48d4-b59e-3c4f9d7b6592</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +108,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'DAFZA Sales' or . = 'DAFZA Sales')]</value>
-      <webElementGuid>07eee155-0439-4a46-9e6f-26ae3df51dd9</webElementGuid>
+      <webElementGuid>aafe4001-dfc2-4736-a214-abcdc98984f9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

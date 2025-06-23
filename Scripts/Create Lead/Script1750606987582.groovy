@@ -17,15 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://test.salesforce.com')
+WebUI.callTestCase(findTestCase('Login to UAT'), [:], FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.maximizeWindow()
+WebUI.click(findTestObject('Page_Home  Salesforce/div_App Launcher'))
 
-WebUI.setText(findTestObject('Page_Login  Salesforce/input_Username_username'), 'con_djha_sf@diez.ae.uat')
+WebUI.setText(findTestObject('Page_Home  Salesforce/input_Search apps and items_input-315'), 'DAFZA')
 
-WebUI.setText(findTestObject('Page_Login  Salesforce/input_Password_pw'), 'Passw0rd@123')
+WebUI.click(findTestObject('Page_Home  Salesforce/div_DAFZA Sales'))
 
-WebUI.click(findTestObject('Page_Login  Salesforce/input_Password_Login'))
+WebUI.click(findTestObject('Page_Home  Salesforce/span_Leads'))
 
-WebUI.verifyElementPresent(findTestObject('Page_Home  Salesforce/span_Sandbox UAT'), 0)
+WebUI.click(findTestObject('Page_Recently Viewed  Leads  Salesforce/div_New'))
 

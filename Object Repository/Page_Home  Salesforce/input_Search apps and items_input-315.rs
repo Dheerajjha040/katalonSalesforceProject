@@ -6,12 +6,12 @@
    <elementGuidId>c1eb5861-238f-4a30-821d-41ecd60a99e1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#input-315</value>
+         <key>XPATH</key>
+         <value>//lightning-primitive-input-simple/div/div/input</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='input-315']</value>
+         <key>CSS</key>
+         <value>#input-315</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
